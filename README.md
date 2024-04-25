@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://faizghanchi.me](https://faizghanchi.me)
 
-- 💬 Ask me about **nodejs, postgresql and**
+- 💬 Ask me about **nodejs, postgresql and docker**
 
 - 📫 How to reach me **faizghanchi04@gmail.com**
 
