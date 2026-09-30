@@ -17,4 +17,4 @@ An applied cloud computing research testbed comparing **CockroachDB** with **Pos
 - **[zev](https://github.com/faiz-gh/zev)** – A programming language interpreter written in C.
 
 ## Get in touch
-🌐 [faizghanchi.com](https://faizghanchi.com) · 💼 [LinkedIn](https://linkedin.com/in/faizghanchi) · 📫 faizghanchi1278@gmail.com
+🌐 [faizghanchi.com](https://faizghanchi.com) · 💼 [LinkedIn](https://linkedin.com/in/faizghanchi) · 📫 faizghanchi1928@gmail.com
