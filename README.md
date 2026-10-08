@@ -30,4 +30,4 @@ A collaborative code pad with no signup and no modals: paste a link and you're i
 Growing Pairpad and Fronko in the open, one release at a time. Happy to talk about Go, real-time sync, multi-cloud setups, or how to deploy something without losing sleep.
 
 ## 📫 Get in touch
-🌐 [faizghanchi.com](https://faizghanchi.com) · 💼 [LinkedIn](https://linkedin.com/in/faizghanchi) · 📫 faizghanchi1928@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/faizghanchi) · 📫 faizghanchi1928@gmail.com
