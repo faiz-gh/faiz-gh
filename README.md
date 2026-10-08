@@ -1,7 +1,7 @@
 # Hi, I'm Faiz 👋
 ### Software Engineer · Cloud, DevOps & Full Stack
 
-I build software end to end: **Go** backends, **Svelte** and **Next.js** frontends, and the **cloud infrastructure** they run on. I like products that are fast to use, boring to operate and fun to build. I hold an **MSc in Network Management and Cloud Computing**, and I'm based in India 🇮🇳
+I build software end to end: **Go** backends, **Svelte** and **Next.js** frontends, and the **cloud infrastructure** they run on. I like products that are fast to use, boring to operate and fun to build. I hold an **MSc in Network Management and Cloud Computing**, and I'm based in India.
 
 ## 🛠️ What I work with
 - **Languages & Backend:** Go, Python (FastAPI), Node.js / TypeScript, REST APIs, WebSockets
